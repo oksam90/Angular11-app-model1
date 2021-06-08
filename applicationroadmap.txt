@@ -1,0 +1,18 @@
+Créer une application qui permet de gérer des produits:
+
+Partie Backend : Json-server
+
+Bases fondamentales de Angular
+
+Reactive Forms
+
+Comment décomposer un component 
+
+Différentes façon de Communication entre les components
+
+Quelques bonnes pratiques:
+
+Transition vers NGRX pour le State Management
+
+1. après installation des librairies nodeModule
+	-on crée un composent nav bar
