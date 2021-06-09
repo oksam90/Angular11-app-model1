@@ -16,3 +16,7 @@ Transition vers NGRX pour le State Management
 
 1. après installation des librairies nodeModule
 	-on crée un composent nav bar
+	-un composent ProductList
+	-un composant ItemProduct
+
+2.Décopensosition des composents et communication entre composant à l'aide des EventEmitter
